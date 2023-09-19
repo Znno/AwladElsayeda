@@ -39,8 +39,7 @@ $ https://www.apachefriends.org/download.html
 3. Take the downloaded files and put it in XAMPP ->htdocs
 
 4. Open Xampp and start apache and MYSQL then click on admin next to MYSQL
-
-
+<div align= "center"><img src="https://github.com/Znno/AwladElsayeda/blob/master/xampp.png"/></div>
 5. import the database called AwladElsayeda.sql from the phpmyadmin website
 
 6. go to a new tab in your browser and type http://localhost/AwladElsayeda/ 
