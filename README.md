@@ -40,7 +40,7 @@ $ https://www.apachefriends.org/download.html
 
 4. Open Xampp and start apache and MYSQL then click on admin next to MYSQL
 <div align= "center"><img src="https://github.com/Znno/AwladElsayeda/blob/master/xampp.png"/></div>
-5. import the database called AwladElsayeda.sql from the phpmyadmin website
-
+5. make a new database by clicking on "new" from the left panel then click on import  and import the database called AwladElsayeda.sql from the  AwladElsayeda folder you have just downloaded
+<div align= "center"><img src="https://github.com/Znno/AwladElsayeda/blob/master/import.png"/></div>
 6. go to a new tab in your browser and type http://localhost/AwladElsayeda/ 
 
