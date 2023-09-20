@@ -20,7 +20,7 @@ Our hometown restaurants were suffering because of the heavy load on the phone, 
  - ### Management
       <img width="607" alt="attendace" src="https://github.com/Znno/AwladElsayeda/blob/master/menu.png">
       
-      - We made a multiple sections to manage the restaurant's staff, food,customers and employees.
+      - We made multiple sections to manage the restaurant's staff, food,customers and employees.
 
       
  - ### Eeasy to use
@@ -31,10 +31,11 @@ Our hometown restaurants were suffering because of the heavy load on the phone, 
 
 ## 🚀&nbsp; Installation
 1. Download the files
+
+2. Download XAMPP and set it up
 ```
 $ https://www.apachefriends.org/download.html
 ```
-2. Download XAMPP and set it up
 
 3. Take the downloaded files and put it in XAMPP ->htdocs
 
